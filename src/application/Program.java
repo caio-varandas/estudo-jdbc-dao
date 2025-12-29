@@ -1,6 +1,5 @@
 package application;
 
-import java.sql.Date;
 import java.time.LocalDate;
 
 import model.entities.Department;
